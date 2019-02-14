@@ -1,4 +1,4 @@
-var 123movies = require("watch-what-men-want-online-2019-full-movie-hd")
+var nodeJsSample = require("node-js-sample")
 
 {
   "name": "watch-what-men-want-online-2019-full-movie-hd",
